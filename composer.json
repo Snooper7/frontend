@@ -2,7 +2,7 @@
     "name": "snooper7/frontend",
     "description": "Everything that you need for frontend develop",
     "type": "library",
-    "license": "MIT License",
+    "license": "MIT",
     "authors": [
         {
             "name": "Snooper",
